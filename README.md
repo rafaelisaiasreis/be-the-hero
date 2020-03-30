@@ -45,7 +45,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ### :muscle: Quem deu aquela força para não desistir?
 
-O pessoal da Rocketseat pela iniciativa e mentoria nesse projeto maravilindo, ao canal do Felipe Deschamps pela cobertura delicinha da semana Omnistack!
+O pessoal da Rocketseat pela iniciativa e mentoria nesse projeto maravilindo, ao canal do Felipe Deschamps pela cobertura delicinha da semana Omnistack e a toda comunidade dev!
 Entrem [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRAFhc) e [no canal do Felipe](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw).
 
 ---
