@@ -17,6 +17,7 @@ Este maravilindo projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 - [Express](https://expressjs.com/pt-br/)
 - [React](https://pt-br.reactjs.org/)
+- [ReactNative](https://reactnative.dev/)
 
 
 ### :muscle: Projeto
