@@ -52,4 +52,4 @@ Entrem [na comunidade da Rocketseat :rocket:](https://discordapp.com/invite/gCRA
 
 ---
 
-Feito com ❤️ RocketSeat :wave:
+Feito com ❤️:wave:
